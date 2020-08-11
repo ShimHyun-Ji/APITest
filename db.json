@@ -17,7 +17,7 @@
       {
         "qrCode": "A00003",
         "buildingID": 22
-      },
+      }
     ],
     "danjis": [
       {
@@ -60,6 +60,6 @@
         "flag": 0,
         "thumbnail": ""
       }
-    }, 
+    }
   ]
 }
