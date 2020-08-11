@@ -1,82 +1,65 @@
 {
-  "dailyTasks": [
+  "schedules": [
+    1596726000,
+    1596812400,
+    1596898800
+  ],
+  "dailyTasks": {
+    "qrCodes": [
+      {
+        "qrCode": "A00001",
+        "buildingID": 20
+      },
+      {
+        "qrCode": "A00002",
+        "buildingID": 21
+      },
+      {
+        "qrCode": "A00003",
+        "buildingID": 22
+      },
+    ],
+    "danjis": [
+      {
+        "remoteID": 20,
+        "name": "위시티 일산자이 4단지",
+        "address": "서울시 양천구 목동 961",
+        "count": "0/24"
+      },
+      {
+        "remoteID": 21,
+        "name": "위시티 일산자이 4단지",
+        "address": "서울시 양천구 목동 961",
+        "count": "0/24"
+      },
+      {
+        "remoteID": 22,
+        "name": "위시티 일산자이 4단지",
+        "address": "서울시 양천구 목동 961",
+        "count": "0/24"
+      }
+    ],
+    "noticeTitles": "공지사항 제목1, 공지사항 제목2, 공지사항 제목3",
+    "count": "0/24"
+  }
+  "donghogiList": [
     {
-      "qrCodes": [
-        {
-          "qrCode": "A00001",
-          "buildingID": 20
-        },
-        {
-          "qrCode": "A00002",
-          "buildingID": 21
-        },
-        {
-          "qrCode": "A00003",
-          "buildingID": 22
-        },
-        {
-          "qrCode": "A00004",
-          "buildingID": 23
-        },
-        {
-          "qrCode": "A00005",
-          "buildingID": 24
-        },
-        {
-          "qrCode": "A00006",
-          "buildingID": 25
-        },
-        {
-          "qrCode": "A00007",
-          "buildingID": 26
-        }
-      ],
-      "danjis": [
-        {
-          "remoteID": 20,
-          "name": "위시티 일산자이 4단지",
-          "address": "서울시 양천구 목동 961",
-          "count": "0/24"
-        },
-        {
-          "remoteID": 21,
-          "name": "위시티 일산자이 4단지",
-          "address": "서울시 양천구 목동 961",
-          "count": "0/24"
-        },
-        {
-          "remoteID": 22,
-          "name": "위시티 일산자이 4단지",
-          "address": "서울시 양천구 목동 961",
-          "count": "0/24"
-        },
-        {
-          "remoteID": 23,
-          "name": "위시티 일산자이 4단지",
-          "address": "서울시 양천구 목동 961",
-          "count": "0/24"
-        },
-        {
-          "remoteID": 24,
-          "name": "위시티 일산자이 4단지",
-          "address": "서울시 양천구 목동 961",
-          "count": "0/24"
-        },
-        {
-          "remoteID": 25,
-          "name": "위시티 일산자이 4단지",
-          "address": "서울시 양천구 목동 961",
-          "count": "0/24"
-        },
-        {
-          "remoteID": 26,
-          "name": "위시티 일산자이 4단지",
-          "address": "서울시 양천구 목동 961",
-          "count": "0/24"
-        }
-      ],
-      "noticeTitles": "공지사항 제목1, 공지사항 제목2, 공지사항 제목3, 공지사항 제목3, 공지사항 제목3, 공지사항 제목3",
-      "count": "0/24"
-    }
+      "dong": "202동",
+      "hogi": "1호기",
+      "MonitoringTask": {
+        "remoteID": 20,
+        "flag": 0,
+        "thumbnail": ""
+      }
+    }, 
+    {
+      "dong": "202동",
+      "hogi": "2호기",
+      "MonitoringTask": {
+        "remoteID": 21,
+        "flag": 0,
+        "thumbnail": ""
+      }
+    }, 
   ]
 }
