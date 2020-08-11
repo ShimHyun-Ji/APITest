@@ -5,6 +5,30 @@
         {
           "qrCode": "A00001",
           "buildingID": 20
+        },
+        {
+          "qrCode": "A00002",
+          "buildingID": 21
+        },
+        {
+          "qrCode": "A00003",
+          "buildingID": 22
+        },
+        {
+          "qrCode": "A00004",
+          "buildingID": 23
+        },
+        {
+          "qrCode": "A00005",
+          "buildingID": 24
+        },
+        {
+          "qrCode": "A00006",
+          "buildingID": 25
+        },
+        {
+          "qrCode": "A00007",
+          "buildingID": 26
         }
       ],
       "danjis": [
