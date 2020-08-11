@@ -1,0 +1,22 @@
+{
+  "dailyTasks": [
+    {
+      "qrCodes": [
+        {
+          "qrCode": "A00001",
+          "buildingID": 20
+        }
+      ],
+      "danjis": [
+        {
+          "remoteID": 20,
+          "name": "위시티 일산자이 4단지",
+          "address": "서울시 양천구 목동 961",
+          "count": "0/24"
+        }
+      ],
+      "noticeTitles": "공지사항 제목1, 공지사항 제목2, 공지사항 제목3",
+      "count": "0/24"
+    }
+  ]
+}
