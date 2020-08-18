@@ -1,13 +1,12 @@
 {
   "schedules": {
-    0:1,
-    1:1,
-    2:0,
-    3:1,
-    4:0,
-    5:0,
-    6:1,
-    7:1
+    "Mon":1,
+    "Tus":1,
+    "Wed":0,
+    "Thurs":1,
+    "Fri":0,
+    "Sat":0,
+    "Sun":1
   },
   "dailyTasks": {
     "qrCodes": [
