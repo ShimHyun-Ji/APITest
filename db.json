@@ -1,12 +1,12 @@
 {
   "schedules": [
-    { "date":"2020-08-20", "hasTask" : 1},
-    { "date":"2020-08-21", "hasTask" : 1},
-    { "date":"2020-08-22", "hasTask" : 0},
-    { "date":"2020-08-23", "hasTask" : 1},
-    { "date":"2020-08-24", "hasTask" : 0},
-    { "date":"2020-08-25", "hasTask" : 0},
-    { "date":"2020-08-26", "hasTask" : 1}
+    { "dateStr":"2020-08-20", "hasTask" : 1},
+    { "dateStr":"2020-08-21", "hasTask" : 1},
+    { "dateStr":"2020-08-22", "hasTask" : 0},
+    { "dateStr":"2020-08-23", "hasTask" : 1},
+    { "dateStr":"2020-08-24", "hasTask" : 0},
+    { "dateStr":"2020-08-25", "hasTask" : 0},
+    { "dateStr":"2020-08-26", "hasTask" : 1}
   ],
   "dailyTasks": {
     "qrCodes": [
