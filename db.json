@@ -65,7 +65,7 @@
       "MonitoringTask": {
         "remoteID": 20,
         "flag": 0,
-        "thumbnail": ""
+        "thumbnail": null
       }
     }, 
     {
@@ -74,7 +74,7 @@
       "MonitoringTask": {
         "remoteID": 21,
         "flag": 0,
-        "thumbnail": ""
+        "thumbnail": null
       }
     }
   ],
@@ -85,7 +85,7 @@
       "MonitoringTask": {
         "remoteID": 0,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     },
     {
@@ -93,8 +93,8 @@
       "hogi": "2호기",
       "MonitoringTask": {
         "remoteID": 1,
-        "flag": 0,
-        "thumbnail": 1
+        "flag": 1,
+        "thumbnail": "http://dev.treeter.net/data/bmm_monitoring/AGE_180135/2205/20200220123518-d4755262885bee68f9177d4228f094d5766e9bf0b26cd0ebfbef949517edba13.jpg"
       }
     },
     {
@@ -103,7 +103,7 @@
       "MonitoringTask": {
         "remoteID": 2,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     },
     {
@@ -112,7 +112,7 @@
       "MonitoringTask": {
         "remoteID": 3,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     },
     {
@@ -121,7 +121,7 @@
       "MonitoringTask": {
         "remoteID": 4,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     },
     {
@@ -130,7 +130,7 @@
       "MonitoringTask": {
         "remoteID": 5,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     },
     {
@@ -139,7 +139,7 @@
       "MonitoringTask": {
         "remoteID": 6,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     },
     {
@@ -148,7 +148,7 @@
       "MonitoringTask": {
         "remoteID": 6,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     },
     {
@@ -157,7 +157,7 @@
       "MonitoringTask": {
         "remoteID": 7,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     },
     {
@@ -166,7 +166,7 @@
       "MonitoringTask": {
         "remoteID": 8,
         "flag": 0,
-        "thumbnail": 1
+        "thumbnail": null
       }
     },
     {
@@ -175,7 +175,7 @@
       "MonitoringTask": {
         "remoteID": 9,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     },
     {
@@ -184,7 +184,7 @@
       "MonitoringTask": {
         "remoteID": 10,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     },
     {
@@ -193,7 +193,7 @@
       "MonitoringTask": {
         "remoteID": 11,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     },
     {
@@ -202,7 +202,7 @@
       "MonitoringTask": {
         "remoteID": 12,
         "flag": 0,
-        "thumbnail": 0
+        "thumbnail": null
       }
     }
   ]
