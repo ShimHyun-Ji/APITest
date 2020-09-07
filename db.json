@@ -77,5 +77,133 @@
         "thumbnail": ""
       }
     }
+  ],
+  "donghogiList": [
+    {
+      "dong": "201동",
+      "hogi": "1호기",
+      "MonitoringTask": {
+        "remoteID": 0,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    },
+    {
+      "dong": "201동",
+      "hogi": "2호기",
+      "MonitoringTask": {
+        "remoteID": 1,
+        "flag": 0,
+        "thumbnail": 1
+      }
+    },
+    {
+      "dong": "202동",
+      "hogi": "1호기",
+      "MonitoringTask": {
+        "remoteID": 2,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    },
+    {
+      "dong": "202동",
+      "hogi": "2호기",
+      "MonitoringTask": {
+        "remoteID": 3,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    },
+    {
+      "dong": "203동",
+      "hogi": "1호기",
+      "MonitoringTask": {
+        "remoteID": 4,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    },
+    {
+      "dong": "203동",
+      "hogi": "2호기",
+      "MonitoringTask": {
+        "remoteID": 5,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    },
+    {
+      "dong": "204동",
+      "hogi": "1호기",
+      "MonitoringTask": {
+        "remoteID": 6,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    },
+    {
+      "dong": "204동",
+      "hogi": "2호기",
+      "MonitoringTask": {
+        "remoteID": 6,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    },
+    {
+      "dong": "205동",
+      "hogi": "1호기",
+      "MonitoringTask": {
+        "remoteID": 7,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    },
+    {
+      "dong": "205동",
+      "hogi": "2호기",
+      "MonitoringTask": {
+        "remoteID": 8,
+        "flag": 0,
+        "thumbnail": 1
+      }
+    },
+    {
+      "dong": "206동",
+      "hogi": "1호기",
+      "MonitoringTask": {
+        "remoteID": 9,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    },
+    {
+      "dong": "206동",
+      "hogi": "2호기",
+      "MonitoringTask": {
+        "remoteID": 10,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    },
+    {
+      "dong": "207동",
+      "hogi": "1호기",
+      "MonitoringTask": {
+        "remoteID": 11,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    },
+    {
+      "dong": "207동",
+      "hogi": "2호기",
+      "MonitoringTask": {
+        "remoteID": 12,
+        "flag": 0,
+        "thumbnail": 0
+      }
+    }
   ]
 }
