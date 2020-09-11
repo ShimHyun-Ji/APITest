@@ -62,7 +62,7 @@
     {
       "dong": "202동",
       "hogi": "1호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 20,
         "flag": 0,
         "thumbnail": null
@@ -71,7 +71,7 @@
     {
       "dong": "202동",
       "hogi": "2호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 21,
         "flag": 0,
         "thumbnail": null
@@ -82,7 +82,7 @@
     {
       "dong": "201동",
       "hogi": "1호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 0,
         "flag": 0,
         "thumbnail": null
@@ -91,7 +91,7 @@
     {
       "dong": "201동",
       "hogi": "2호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 1,
         "flag": 1,
         "thumbnail": "http://dev.treeter.net/data/bmm_monitoring/AGE_180135/2205/20200220123518-d4755262885bee68f9177d4228f094d5766e9bf0b26cd0ebfbef949517edba13.jpg"
@@ -100,7 +100,7 @@
     {
       "dong": "202동",
       "hogi": "1호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 2,
         "flag": 0,
         "thumbnail": null
@@ -109,7 +109,7 @@
     {
       "dong": "202동",
       "hogi": "2호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 3,
         "flag": 0,
         "thumbnail": null
@@ -118,7 +118,7 @@
     {
       "dong": "203동",
       "hogi": "1호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 4,
         "flag": 0,
         "thumbnail": null
@@ -127,7 +127,7 @@
     {
       "dong": "203동",
       "hogi": "2호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 5,
         "flag": 0,
         "thumbnail": null
@@ -135,17 +135,17 @@
     },
     {
       "dong": "204동",
-      "hogi": "1호기",
-      "MonitoringTask": {
+      "hogi": "1호기"
+      "mTask": {
         "remoteID": 6,
         "flag": 0,
         "thumbnail": null
-      }
-    },
-    {
+      
+    }
+    
       "dong": "204동",
       "hogi": "2호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 6,
         "flag": 0,
         "thumbnail": null
@@ -154,7 +154,7 @@
     {
       "dong": "205동",
       "hogi": "1호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 7,
         "flag": 0,
         "thumbnail": null
@@ -163,7 +163,7 @@
     {
       "dong": "205동",
       "hogi": "2호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 8,
         "flag": 0,
         "thumbnail": null
@@ -172,7 +172,7 @@
     {
       "dong": "206동",
       "hogi": "1호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 9,
         "flag": 0,
         "thumbnail": null
@@ -181,7 +181,7 @@
     {
       "dong": "206동",
       "hogi": "2호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 10,
         "flag": 0,
         "thumbnail": null
@@ -190,7 +190,7 @@
     {
       "dong": "207동",
       "hogi": "1호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 11,
         "flag": 0,
         "thumbnail": null
@@ -199,7 +199,7 @@
     {
       "dong": "207동",
       "hogi": "2호기",
-      "MonitoringTask": {
+      "mTask": {
         "remoteID": 12,
         "flag": 0,
         "thumbnail": null
